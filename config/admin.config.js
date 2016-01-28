@@ -1,5 +1,5 @@
-AdminConfig = {
-  collections: {
-    Stores: {}
-  },
-};
+// AdminConfig = {
+//   collections: {
+//     Stores: {}
+//   },
+// };
