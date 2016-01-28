@@ -1,0 +1,26 @@
+@import "{}/client/variables";
+
+body {
+  background: $color-medium-branding;
+}
+
+.login-container {
+  height: 100vh;
+  form {
+    padding: 2rem;
+    background: $color-light-branding;
+    border: $basic-border;
+    border-radius: 0.25rem;
+    label {
+      color: $color-white;
+    }
+    h2 {
+      color: $color-white;
+      font-weight: $text-heavy;
+    }
+    .button.login {
+      color: $color-dark-branding;
+      background-color: $color-white;
+    }
+  }
+}
